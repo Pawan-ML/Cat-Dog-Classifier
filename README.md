@@ -2,6 +2,7 @@
 
 ## Description
 ![Sample Image](Classification-of-two-classes-dog-and-cat-using-CNN.png)
+
 This project builds a deep learning model to classify images of cats and dogs using TensorFlow and Keras. The dataset is sourced from Kaggle, and the model is trained on labeled images of cats and dogs.
 
 ## Dataset Information
